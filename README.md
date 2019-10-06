@@ -1,6 +1,9 @@
 ## Southern New Hampshire Game Developer Meetup
 
-REBOOTING: FIRST MEETING 2019
+To stay informed, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/).
+
+### FIRST MEETING 2019
+
 * **Location:** Nashua Public Library - 2 Court Street, Nashua, NH 03060
 * **Date:** Thursday Oct 10th 2019
 * **Time:** 6:00 - 8:30 
