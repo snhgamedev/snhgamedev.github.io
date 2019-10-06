@@ -20,6 +20,6 @@ Anyone **making video games** that:
 ### Group Mission
 
 * Stay focused on video games
-* Promotes a group culture of respect and conscientious cooperation
+* Promotes a conscientious culture of respectful cooperation
 * Facilitate sharing knowledge and excitement
 * Facilitate collaboration
