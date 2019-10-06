@@ -1,6 +1,8 @@
 ## Southern New Hampshire Game Developer Meetup
 
-To stay informed, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/).
+Our user group is focused on making video games. To stay informed, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/). 
+
+Github Repo: [github.com/snhgamedev](https://github.com/snhgamedev/)
 
 ### FIRST MEETING 2019
 
