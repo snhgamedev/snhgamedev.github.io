@@ -8,7 +8,8 @@ Github Repo: [github.com/snhgamedev](https://github.com/snhgamedev/)
 
 * **Location:** Nashua Public Library - 2 Court Street, Nashua, NH 03060
 * **Date:** Thursday Oct 10th 2019
-* **Time:** 6:00 - 8:30 
+* **Time:** 6:00 - 8:30
+* [notes](notes/2019-1010-meeting.md)
 
 ### Group Audience
 
