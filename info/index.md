@@ -35,8 +35,7 @@ Our cultural values:
 -- BIO BREAK --
 
 3. Roundtable Discussion
-   Round-robin
-   Talk over ea
+   Round-robin free-for-all :)
 
 4. Open Demos (last hour?)
 
