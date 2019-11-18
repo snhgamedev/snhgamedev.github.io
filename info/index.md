@@ -24,28 +24,26 @@ Our cultural values:
 
 ```
 1. Welcome/Announcements
-   news from the admins
+   News from the admins
 
 2. Introductions + What's New
-   Round-robin
-   Each person gets the floor
-   Please don't hijack people's time...you can save
-   it for the Roundtable Discussion!
+   Each person gets the floor, round-robin!
+   PLEASE DON'T HIJACK OTHER PEOPLE'S TIME (e.g. don't start
+   tangential conversations... you can save it for the 
+   Roundtable Discussion)
 
 -- BIO BREAK --
 
 3. Roundtable Discussion
-   Round-robin free-for-all :)
+   Round-robin free-for-all :-)
 
-4. Open Demos (last hour?)
+4. Open Demos (last 45 minutes?)
 
-5. Wrap Up
+5. Wrap Up!
 ```
 #### TIPS FOR INTRODUCING YOURSELF
 
 We welcome all levels of skill and interest! You just have to be curious about making games and sharing your interests with the group.
-
-During the introduction round, just give us an idea of you; during the second round you'll be able to get into the weeds!
 
 * What's your name?
 * What are you interested in?
@@ -58,9 +56,10 @@ During the introduction round, just give us an idea of you; during the second ro
 * What are you making?
 * What progress have you made since last time? Victories? Challenges?
 * What are you curious about learning?
+* Have any interesting links to share?
 * Are you looking for any help or information?
 
-## Informational Links
+## Group Resources
 
 RESOURCE | LINK
 --- | ---
