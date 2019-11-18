@@ -4,6 +4,14 @@ Our user group is focused on making video games. To stay informed, join the [SNH
 
 Github Repo: [github.com/snhgamedev](https://github.com/snhgamedev/)
 
+### SECOND MEETING 2019
+
+This is the last meeting of 2019!
+* **Location:** Nashua Public Library - 2 Court Street, Nashua, NH 03060
+* **Date:** Monday Nov 18th 2019
+* **Time:** 6:00 - 8:30
+
+
 ### FIRST MEETING 2019
 
 * **Location:** Nashua Public Library - 2 Court Street, Nashua, NH 03060
