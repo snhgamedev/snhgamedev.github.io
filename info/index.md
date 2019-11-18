@@ -16,7 +16,9 @@ Our cultural values:
 
 * We celebrate making games, spreading knowledge and excitement, and adding more community for game makers in Southern New Hampshire.
 * We want to support a positive and welcoming environment where person-to-person connections can develop over time.
-* We believe in tolerance and acceptance of diversity.
+* We believe in tolerance and welcome diversity.
+* We believe in pursuing knowledge and skill in a supportive and sharing environment.
+
 
 ## Meeting Format (version 1.0.1)
 
@@ -24,27 +26,47 @@ Our cultural values:
 1. Welcome/Announcements
    news from the admins
 
-2. Introductions/What's New
+2. Introductions + What's New
    Round-robin
    Each person gets the floor
-   Please don't hijack people's time
+   Please don't hijack people's time...you can save
+   it for the Roundtable Discussion!
 
 -- BIO BREAK --
 
 3. Roundtable Discussion
    Round-robin
+   Talk over ea
 
 4. Open Demos (last hour?)
 
 5. Wrap Up
 ```
+#### TIPS FOR INTRODUCING YOURSELF
 
-## Links
+We welcome all levels of skill and interest! You just have to be curious about making games and sharing your interests with the group.
+
+During the introduction round, just give us an idea of you; during the second round you'll be able to get into the weeds!
+
+* What's your name?
+* What are you interested in?
+* What is your background with video game making?
+* How did you get into game making, or why you are starting?
+* What would you like to get from the group?
+
+#### TIPS FOR WHAT'S NEW
+
+* What are you making?
+* What progress have you made since last time? Victories? Challenges?
+* What are you curious about learning?
+* Are you looking for any help or information?
+
+## Informational Links
 
 RESOURCE | LINK
 --- | ---
-Discord Chat | [discord.gg/wxKAx68](https://discord.gg/wxKAx68)
 Website | [snhgamedev.github.io](https://snhgamedev.github.io)
+Discord Chat | [discord.gg/wxKAx68](https://discord.gg/wxKAx68)
 Github Org | [github.com/snhgamedev/](https://github.com/snhgamedev/)
 Meetup Page | [meetup.com/Southern-NH-GameDev-Group/](https://www.meetup.com/Southern-NH-GameDev-Group/)
 
