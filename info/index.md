@@ -41,9 +41,9 @@ Our cultural values:
 
 ## Links
 
-* Discord - https://discord.gg/wxKAx68
-* Informational Website - https://snhgamedev.github.io
-* Github repo - https://github.com/snhgamedev/
-* Meetup page - https://www.meetup.com/Southern-NH-GameDev-Group/
+* Discord - [discord.gg/wxKAx68](https://discord.gg/wxKAx68)
+* Informational Website - [snhgamedev.github.io](https://snhgamedev.github.io)
+* Github repo - [github.com/snhgamedev/](https://github.com/snhgamedev/)
+* Meetup page - [meetup.com/Southern-NH-GameDev-Group/](https://www.meetup.com/Southern-NH-GameDev-Group/)
 
 
