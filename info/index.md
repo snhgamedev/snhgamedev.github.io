@@ -30,8 +30,12 @@ Room is open at 6:00PM and meeting starts at 6:30PM.
    News from the admins
 
 2. Introductions + What's New
-   Each person gets the floor, round-robin, by passing the GOLDEN CONTROLLER. You may pass your turn. If you're not sure what to talk about, see the tips on the reverse side of this pamphlet.
-   **Please don't hijack other people's time with tangents or verbose commentary.** Let people speak their piece! It's ok to ask questions about _the person_ and _their projects_.
+   Each person gets the floor, round-robin, by passing the GOLDEN CONTROLLER. 
+   You may pass your turn. If you're not sure what to talk about, see the tips
+   on the reverse side of this pamphlet.
+   **Please don't hijack other people's time with tangents or verbose commentary.** 
+   Let people speak their piece! It's ok to ask questions about _the person_ and 
+   _their projects_.
 
 -- BIO BREAK --
 
