@@ -8,8 +8,8 @@ Our next meeting will be announced for January 2020. Have a great holiday season
 
 ### PAST MEETINGS
 
-* 2019 Oct 10 at the Nashua Public Library. [Meeting Notes](notes/2019-1118-meeting.md)
-* 2019 Nov 18 at the Nashua Public LIbrary. [Meeting Notes](notes/2019-1010-meeting.md)
+* 2019 Nov 18 at the Nashua Public Library. [Meeting Notes](notes/2019-1118-meeting.md)
+* 2019 Oct 10 at the Nashua Public LIbrary. [Meeting Notes](notes/2019-1010-meeting.md)
 
 ### ABOUT THE GROUP
 
