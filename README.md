@@ -1,36 +1,16 @@
 ## Southern New Hampshire Game Developer Meetup
 
-Our user group is focused on making video games. To stay informed, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/). 
+Our user group is focused on making video games. To receive notifications about our meetings, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/). For the latest information, bookmark this page!
 
-Github Repo: [github.com/snhgamedev](https://github.com/snhgamedev/)
+### NEXT MEETING
 
-### SECOND MEETING 2019
+Our next meeting will be announced for January 2020. Have a great holiday season! Join us on our [Discord server](discord.gg/wxKAx68) to keep in touch!
 
-This is the last meeting of 2019!
-* **Location:** Nashua Public Library - 2 Court Street, Nashua, NH 03060
-* **Date:** Monday Nov 18th 2019
-* **Time:** 6:00 - 8:30
+### PAST MEETINGS
 
+* 2019 Oct 10 at the Nashua Public Library. [Meeting Notes](notes/2019-1118-meeting.md)
+* 2019 Nov 18 at the Nashua Public LIbrary. [Meeting Notes](notes/2019-1010-meeting.md)
 
-### FIRST MEETING 2019
+### ABOUT THE GROUP
 
-* **Location:** Nashua Public Library - 2 Court Street, Nashua, NH 03060
-* **Date:** Thursday Oct 10th 2019
-* **Time:** 6:00 - 8:30
-* [notes](notes/2019-1010-meeting.md)
-
-### Group Audience
-
-Anyone **making video games** that:
-
-* Has an interest in the skills/tools/practices used to make video games
-* Practicing at any level (student, hobbyist, aspiring professional, etc)
-* Practicing in any role (art, code, design, promotion, business, etc)
-* Wants to share video game projects, knowledge, and experiences in-person in the Southern Nashua area.
-
-### Group Mission
-
-* Stay focused on video games
-* Promotes a conscientious culture of respectful cooperation
-* Facilitate sharing knowledge and excitement
-* Facilitate collaboration
+See the [info page](info)
