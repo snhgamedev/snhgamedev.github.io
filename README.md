@@ -12,7 +12,7 @@ Our official monthly meetings are all at the **Nashua Public Library** in the La
 * **Wednesday Mar 04** at 600PM
 * **Thursday Apr 09** at 600PM
 * **Thursday May 14** at 600PM
-* **Thursday Jun 11*  at 600PM
+* **Thursday Jun 11**  at 600PM
 * **Thursday Jul 09** at 600PM
 * **Thursday Aug 13** at 600PM
 * **Thursday Sep 10** at 600PM
