@@ -8,16 +8,16 @@ Also join us on our [Discord server](discord.gg/wxKAx68) to keep in touch!
 
 Our official monthly meetings are all at the **Nashua Public Library** in the Large Conference Room from 6:00PM to 8:30PM. It's in the basement.
 
-* **Thursday Jan 30** at 600PM
-* **Wednesday Mar 04** at 600PM
-* **Thursday Apr 09** at 600PM
-* **Thursday May 14** at 600PM
-* **Thursday Jun 11**  at 600PM
-* **Thursday Jul 09** at 600PM
-* **Thursday Aug 13** at 600PM
-* **Thursday Sep 10** at 600PM
-* **Thursday Oct 08** at 600PM
-* **Thursday Nov 12** at 600PM
+* **`Jan 30`** `Thu 6:00-8:30PM`
+* **`Mar 04`** `Wed 6:00-8:30PM`
+* **`Apr 09`** `Thu 6:00-8:30PM`
+* **`May 14`** `Thu 6:00-8:30PM`
+* **`Jun 11`** `Thu 6:00-8:30PM`
+* **`Jul 09`** `Thu 6:00-8:30PM`
+* **`Aug 13`** `Thu 6:00-8:30PM`
+* **`Sep 10`** `Thu 6:00-8:30PM`
+* **`Oct 08`** `Thu 6:00-8:30PM`
+* **`Nov 12`** `Thu 6:00-8:30PM`
 
 There is metered parking in the library lot that expires at 7PM. You can use the Pay By Phone mobile app to pay electronically.
 
