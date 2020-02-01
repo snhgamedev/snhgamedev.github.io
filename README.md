@@ -24,6 +24,7 @@ PARKING: There is metered parking in the library lot that expires at 7PM. If you
 
 ### PAST MEETING NOTES
 
+* 2020 Jan 30 (NPL) [meeting Notes](notes/2020-0130-meeting.md)
 * 2019 Nov 18 (NPL) [meeting notes](notes/2019-1118-meeting.md)
 * 2019 Oct 10 (NPL) [meeting Notes](notes/2019-1010-meeting.md)
 
