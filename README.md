@@ -2,7 +2,7 @@
 
 Our user group is focused on making video games. To receive notifications about our meetings, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/). For the latest information, bookmark this page!
 
-Also join us on our [Discord server](discord.gg/wxKAx68) to keep in touch!
+Also join us on our [Discord server](https://discord.gg/wxKAx68) to keep in touch!
 
 ### 2020 MEETINGS
 
