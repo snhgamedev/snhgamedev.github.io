@@ -8,6 +8,8 @@ Also join us on our [Discord server](https://discord.gg/wxKAx68) to keep in touc
 
 Our official monthly meetings are all at the **Nashua Public Library** in the Large Conference Room from 6:00PM to 8:30PM with the exception of Mar 4 which is meeting in the activity room. It's in the basement.
 ```
+NOTE: The meeting officially starts at 6:30PM.
+
 - Jan 30 Thu - 6 to 8:30pm - Nashua Public Library
 - Feb .. ... - no meeting  - .....................
 - Mar 04 Wed - 6 to 8:30pm - Nashua Public Library
