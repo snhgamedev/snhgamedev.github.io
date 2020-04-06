@@ -1,6 +1,11 @@
 ## Southern New Hampshire Game Developer Meetup
 
-Our user group is focused on making video games. To receive notifications about our meetings, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/). For the latest information, bookmark this page!
+Our user group is focused on making video games. 
+
+To receive notifications about our meetings, you have two choices!
+
+1. Join our **Discord Server** by following the directions below! Discord is the active site. 
+2. Join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/) on Meetup.com. We post announcements to help people in the area find us, but main discussion is happening on the Discord,.
 
 ```
 Join our Discord server by (1) signing up and (2) joining by entering this 
@@ -20,7 +25,7 @@ NOTE: The meeting officially starts at 6:30PM.
 - Jan 30 Thu - 6 to 8:30pm - Nashua Public Library
 - Feb .. ... - no meeting  - .....................
 - Mar 04 Wed - 6 to 8:30pm - Nashua Public Library
-- Apr 09 Thu - 6 to 8:30pm - Nashua Public Library - ACTIVITY ROOM 
+> Apr 09 Thu - 6 to 8:30pm > ONLINE - See Discord room
 - May 14 Thu - 6 to 8:30pm - Nashua Public Library
 - Jun 11 Thu - 6 to 8:30pm - Nashua Public Library
 - Jul 09 Thu - 6 to 8:30pm - Nashua Public Library
