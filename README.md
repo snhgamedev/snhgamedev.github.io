@@ -2,7 +2,14 @@
 
 Our user group is focused on making video games. To receive notifications about our meetings, join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/). For the latest information, bookmark this page!
 
-Also join us on our [Discord server](https://discord.gg/wxKAx68) to keep in touch!
+```
+Join our Discord server by (1) signing up and (2) joining by entering this 
+DISCORD INVITE CODE: https://discord.gg/hjnG9Xj
+
+NOTE: sometimes the automatic signup doesn't work, but you should be able to 
+add the code manually once you're logged-in to your Discord account. 
+If you are a new account holder, check for a verification email.
+```
 
 ### 2020 MEETINGS
 
