@@ -26,13 +26,13 @@ NOTE: The meeting officially starts at 6:30PM.
 - Feb .. ... - no meeting  - .....................
 - Mar 04 Wed - 6 to 8:30pm - Nashua Public Library
 > Apr 09 Thu - 6 to 8:30pm > ONLINE - See Discord room
-- May 14 Thu - 6 to 8:30pm - Nashua Public Library
-- Jun 11 Thu - 6 to 8:30pm - Nashua Public Library
-- Jul 09 Thu - 6 to 8:30pm - Nashua Public Library
-- Aug 13 Thu - 6 to 8:30pm - Nashua Public Library
-- Sep 10 Thu - 6 to 8:30pm - Nashua Public Library
-- Oct 08 Thu - 6 to 8:30pm - Nashua Public Library
-- Nov 12 Thu - 6 to 8:30pm - Nashua Public Library
+- May 14 Thu - 6 to 8:30pm - ONLINE - See Discord room
+- Jun 11 Thu - 6 to 8:30pm - DISCORD
+- Jul 09 Thu - 6 to 8:30pm - DISCORD
+- Aug 13 Thu - 6 to 8:30pm - DISCORD
+- Sep 17 Thu - 6 to 8:30pm - DISCORD (rescheduled)
+- Oct 08 Thu - 6 to 8:30pm - DISCORD
+- Nov 12 Thu - 6 to 8:30pm - DISCORD
 ```
 PARKING: There is metered parking in the library lot that expires at 7PM. If you don't have change, the [Pay By Phone mobile app](https://www.paybyphone.com/). 
 
