@@ -18,7 +18,9 @@ If you are a new account holder, check for a verification email.
 
 ### 2020 MEETINGS
 
-Our official monthly meetings are all at the **Nashua Public Library** in the Large Conference Room from 6:00PM to 8:30PM with the exception of Mar 4 which is meeting in the activity room. It's in the basement.
+Our official monthly meetings are all at the **Nashua Public Library**. During the Pandemic we're meeting virtually in the Discord Chat room. 
+
+The time has change to 7PM to 8:30PM for the remainder of the year.
 ```
 NOTE: The meeting officially starts at 6:30PM.
 
@@ -29,15 +31,14 @@ NOTE: The meeting officially starts at 6:30PM.
 - May 14 Thu - 6 to 8:30pm - ONLINE - See Discord room
 - Jun 11 Thu - 6 to 8:30pm - DISCORD
 - Jul 09 Thu - 6 to 8:30pm - DISCORD
-- Aug 13 Thu - 6 to 8:30pm - DISCORD
-- Sep 17 Thu - 6 to 8:30pm - DISCORD (rescheduled)
-- Oct 08 Thu - 6 to 8:30pm - DISCORD
-- Nov 12 Thu - 6 to 8:30pm - DISCORD
+- Aug 13 Thu - 7 to 8:30pm - DISCORD
+- Sep 17 Thu - 7 to 8:30pm - DISCORD (rescheduled)
+- Oct 08 Thu - 7 to 8:30pm - DISCORD
+- Nov 12 Thu - 7 to 8:30pm - DISCORD
 ```
 PARKING: There is metered parking in the library lot that expires at 7PM. If you don't have change, the [Pay By Phone mobile app](https://www.paybyphone.com/). 
 
 ### PAST MEETING NOTES
-
 
 * 2020 Mar  4 (NPL) [meeting Notes](notes/2020-0304-meeting.md)
 * 2020 Jan 30 (NPL) [meeting Notes](notes/2020-0130-meeting.md)
