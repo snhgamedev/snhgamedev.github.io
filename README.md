@@ -30,7 +30,7 @@ NOTE: The meeting officially starts at 6:30PM.
 > Apr 09 Thu - 6 to 8:30pm > ONLINE - See Discord room
 - May 14 Thu - 6 to 8:30pm - ONLINE - See Discord room
 - Jun 11 Thu - 6 to 8:30pm - DISCORD
-- Jul 09 Thu - 6 to 8:30pm - DISCORD
+- Jul 09 Thu - 7 to 8:30pm - DISCORD
 - Aug 13 Thu - 7 to 8:30pm - DISCORD
 - Sep 17 Thu - 7 to 8:30pm - DISCORD (rescheduled)
 - Oct 08 Thu - 7 to 8:30pm - DISCORD
