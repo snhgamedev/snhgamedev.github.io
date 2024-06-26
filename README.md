@@ -6,7 +6,7 @@ Our user group is focused on making video games by people in the **Southern New 
 
 Our primary discussion and event planning happens on the **Discord Server**. Use this invitation link: [discord.gg/FrwurzetXD](https://discord.gg/FrwurzetXD). 
 
-We also have a **Meetup Group** called the [Southern NH GameDev Group](https://www.meetup.com/Southern-NH-GameDev-Group/). We post announcements to help people in the local area find us, but main discussion happens on the Discord.
+We also have a **Meetup Group** called the [Southern NH GameDev Group](https://www.meetup.com/Southern-NH-GameDev-Group/). We post announcements to help people in the local area find us, but main discussion happens on the Discord. The Meetup Group also has our [public event listings](https://www.meetup.com/southern-nh-gamedev-group/events/).
 
 ### Who Is This Group For?
 
