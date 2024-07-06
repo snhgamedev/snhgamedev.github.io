@@ -1,50 +1,33 @@
 ## Southern New Hampshire Game Developer Meetup
 
-Our user group is focused on making video games. 
+Our user group is focused on making video games by people in the **Southern New Hampshire** area. We meet periodically online and in-person.
 
-To receive notifications about our meetings, you have two choices!
+### Where We Meet
 
-1. Join our **Discord Server** by following the directions below! Discord is the active site. 
-2. Join the [SNHGameDev Meetup](https://www.meetup.com/Southern-NH-GameDev-Group/) on Meetup.com. We post announcements to help people in the area find us, but main discussion is happening on the Discord,.
+Our primary discussion and event planning happens on the **Discord Server**. Use this invitation link: [discord.gg/FrwurzetXD](https://discord.gg/FrwurzetXD). 
 
-```
-Join our Discord server by (1) signing up and (2) joining by entering this 
-DISCORD INVITE CODE: https://discord.gg/hjnG9Xj
+We also have a **Meetup Group** called the [Southern NH GameDev Group](https://www.meetup.com/Southern-NH-GameDev-Group/). We post announcements to help people in the local area find us, but main discussion happens on the Discord. The Meetup Group also has our [public event listings](https://www.meetup.com/southern-nh-gamedev-group/events/).
 
-NOTE: sometimes the automatic signup doesn't work, but you should be able to 
-add the code manually once you're logged-in to your Discord account. 
-If you are a new account holder, check for a verification email.
-```
+### Who Is This Group For?
 
-### 2020 MEETINGS
+* For ANYONE pursuing video game development ...
+* ... in ANY role, artistic or technical or business ...
+* ... with ANY level of skill, from beginner to pro!
 
-Our official monthly meetings are all at the **Nashua Public Library**. During the Pandemic we're meeting virtually in the Discord Chat room. 
+### What is the Group Mission?
 
-The time has change to 7PM to 8:30PM for the remainder of the year.
-```
-NOTE: The meeting officially starts at 6:30PM.
+* To discuss what we are making and learning!
+* To share our excitement and curiosity about the process!
+* To learn about each other’s projects and share knowledge!
+* To create a welcoming collaborative community spanning diverse interest!
 
-- Jan 30 Thu - 6 to 8:30pm - Nashua Public Library
-- Feb .. ... - no meeting  - .....................
-- Mar 04 Wed - 6 to 8:30pm - Nashua Public Library
-> Apr 09 Thu - 6 to 8:30pm > ONLINE - See Discord room
-- May 14 Thu - 6 to 8:30pm - ONLINE - See Discord room
-- Jun 11 Thu - 6 to 8:30pm - DISCORD
-- Jul 09 Thu - 7 to 8:30pm - DISCORD
-- Aug 13 Thu - 7 to 8:30pm - DISCORD
-- Sep 17 Thu - 7 to 8:30pm - DISCORD (rescheduled)
-- Oct 08 Thu - 7 to 8:30pm - DISCORD
-- Nov 12 Thu - 7 to 8:30pm - DISCORD
-```
-PARKING: There is metered parking in the library lot that expires at 7PM. If you don't have change, the [Pay By Phone mobile app](https://www.paybyphone.com/). 
+Our cultural values:
 
-### PAST MEETING NOTES
+* We celebrate making games, spreading knowledge and excitement, and adding more community for game makers in Southern New Hampshire.
+* We want to support a positive and welcoming environment where person-to-person connections can develop over time.
+* We believe in tolerance and welcome diversity.
+* We believe in pursuing knowledge and skill in a supportive and sharing environment.
 
-* 2020 Mar  4 (NPL) [meeting Notes](notes/2020-0304-meeting.md)
-* 2020 Jan 30 (NPL) [meeting Notes](notes/2020-0130-meeting.md)
-* 2019 Nov 18 (NPL) [meeting notes](notes/2019-1118-meeting.md)
-* 2019 Oct 10 (NPL) [meeting Notes](notes/2019-1010-meeting.md)
+### Participating in the Group
 
-### ABOUT THE GROUP
-
-See the [info page](info)
+See our [Information](info) page!
