@@ -1,3 +1,14 @@
+> [!NOTE]
+> **As of September 19, 2026, the leadership of the group is stepping down due to other life commitments.** If you'd like to take over, contact Alex in the Discord which will remain active for the foreseeable future. If you have any questions, tag `@admin` in the Discord chat.
+>
+> Notes from Alex Williams:
+>
+> _I think the group has a lot of potential and if someone (or some-many) wanted to take over the group I am sure they could really build something cool._
+>
+> _A few details for anyone (or many-ones) who is (are) considering taking over.  The meetup site is paid up until Feb 3 (2026), so you could try-before-you-buy the group until then. After that I believe meetup.com will reach out to the general members and/or general public to see if anyone wants to take it over. Its also worth noting that the discord group here can just exist as it is, the meetup group is just a way to funnel new users here._
+> 
+> _Speaking of Discord, while it is relatively stable, the Discord admin would need some amount of effort. Lastly @dsri has done an excellent job of maintaining our GitHub site which has lots of information which would be extremely useful for any new leadership._
+
 ## Southern New Hampshire Game Developer Meetup
 
 Our user group is focused on making video games by people in the **Southern New Hampshire** area. We meet periodically online and in-person.
