@@ -1,7 +1,7 @@
 > [!NOTE]
 > **As of September 19, 2026, the leadership of the group is stepping down due to other life commitments.** If you'd like to take over, contact Alex in the Discord which will remain active for the foreseeable future. If you have any questions, tag `@admin` in the Discord chat.
 >
-> Notes from Alex Williams:
+> Transfer Notes from Alex Williams posted to Discord:
 >
 > _I think the group has a lot of potential and if someone (or some-many) wanted to take over the group I am sure they could really build something cool._
 >
