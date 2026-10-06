@@ -1,4 +1,4 @@
-> [!NOTE]
+> ## NOTICE
 > **As of September 19, 2026, the leadership of the group is stepping down due to other life commitments.** If you'd like to take over, contact Alex in the Discord which will remain active for the foreseeable future. If you have any questions, tag `@admin` in the Discord chat.
 >
 > Transfer Notes from Alex Williams posted to Discord:
